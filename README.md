@@ -1,4 +1,5 @@
 # APIL PECS/Chest Tube Phantom
+![Alt text](images/edited/pecs_chest_tube_1.png)
 
 The APIL Pectoralis and Chest Tube Phantom created with a combination of 3D printed structural elements and a series of replacable echogenic gel inserts for each procedure.
 
@@ -7,7 +8,7 @@ The PECS inserts are ultrasoundable and a bolus of liquid can be deposited betwe
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca), Toronto General Hospital, University Health Network.
 
 # Purchasing Information
-
+![Alt text](images/edited/pecs_chest_tube_2.png)
 To purchase this phantom, please email <apil@uhn.ca> and a represtative will be in touch with you with more details.
 
 **A purchased phantom contains the following**:
@@ -17,6 +18,7 @@ To purchase this phantom, please email <apil@uhn.ca> and a represtative will be 
 3. 5 x fully assembled chest tube inserts
 
 # Ultrasound Images
+Coming soon
 
 # Care and Maintenance
 
@@ -84,6 +86,8 @@ In general, we use the following settings for *all* parts of this phantom:
 
 ### Silicone Shell Casting
 
+![Alt text](images/edited/printed_shell_molds.png)
+
 **NOTE:** We are in the process of updating this mold assembly to make this process much easier.  Currently, this process is extremely difficult.
 
 1. Print all components in the directory */shell_mold_parts/shell_mold_parts/* using the printing settings outlined above.
@@ -99,6 +103,8 @@ In general, we use the following settings for *all* parts of this phantom:
    - **NOTE:** This step can be very difficult.  Procede with caution and patience to avoid damaging the silicone shell.
 
 ### Silicone PECS and Chest Tube Inserts Molds Casting
+
+![Alt text](images/edited/printed_molds.png)
 
 1. Print all components in the directory */pecs_chest_tube_inserts_molds/* using the printing settings outlined above.
 2. Mix **4000 g** of silicone according to manufacturers instructions.
@@ -148,12 +154,18 @@ In general, we use the following settings for *all* parts of this phantom:
 
 ## Phantom Assembly
 
+![Alt text](images/edited/printed_structural.png)
+
 1. Print all components in the directory */bones/* and */structural_parts/* directories using the printing settings outlined above.
 2. Remove all support from printed pieces
-4. Attach scapula_partial and clavicle to back_plate with M4x8 bolts.
-3. Cut one end of tube fitting and insert into ribs_1 hole (underneath the PECS insert frame).  Attach with hot glue.
-4. Attach 125 mm long silicone tubing to tube fitting.
-5. Attach a second tube fitting through hole of back_plate and secure with retaining_plate and hot_glue.  Attach the silicone tubing from step #3 to this tube fitting.
-6. Attach ribs_1 and ribs_2 to back_plate with M4x8 bolts
-7. Pull silicone shell over assembled structural elements.
-8. Attach all shell_outer_clamp parts around silicone shell and secure with M4 bolts.
+3. . Attach scapula_partial and clavicle to back_plate with M4x8 bolts.
+4. Cut one end of tube fitting and insert into ribs_1 hole (underneath the PECS insert frame).  Attach with hot glue.
+![Alt text](images/edited/tube_fitting_cut.png)
+
+5. Attach 125 mm long silicone tubing to tube fitting.
+6. Attach a second tube fitting through hole of back_plate and secure with retaining_plate and hot_glue.  Attach the silicone tubing from step #3 to this tube fitting.
+
+![Alt text](images/edited/tube_fitting_install_3.png)
+7. Attach ribs_1 and ribs_2 to back_plate with M4x8 bolts
+8. Pull silicone shell over assembled structural elements.
+9.  Attach all shell_outer_clamp parts around silicone shell and secure with M4 bolts.
