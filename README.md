@@ -1,14 +1,14 @@
 # APIL PECS/Chest Tube Phantom
-![Alt text](images/edited/pecs_chest_tube_1.png)
+
+<img src="https://github.com/tgh-apil/pecs_chest_tube_phantom/assets/84343976/b7e23f5b-bbaa-4363-ad27-cf6ba815aaed" width="450"> <img src="https://github.com/tgh-apil/pecs_chest_tube_phantom/assets/84343976/c00c3211-edb9-4418-a241-6c158e4d4060" width="380"><br>
 
 The APIL Pectoralis and Chest Tube Phantom created with a combination of 3D printed structural elements and a series of replacable echogenic gel inserts for each procedure.
 
-The PECS inserts are ultrasoundable and a bolus of liquid can be deposited between the layers to simulate the delivery of an anesthetic agent.  Additionally, the chest tube insert is made with a synthetic gel which simulates the tactile feel of human muscle with an additional fabric layer to simulate the pleural membrane.
+The PECS inserts are ultrasoundable and a bolus of liquid can be deposited between the layers to simulate the delivery of an anesthetic agent. Additionally, the chest tube insert is made with a synthetic gel which simulates the tactile feel of human muscle with an additional fabric layer to simulate the pleural membrane.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca), Toronto General Hospital, University Health Network.
 
 # Purchasing Information
-![Alt text](images/edited/pecs_chest_tube_2.png)
 To purchase this phantom, please email <apil@uhn.ca> and a represtative will be in touch with you with more details.
 
 **A purchased phantom contains the following**:
